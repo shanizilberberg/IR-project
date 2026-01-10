@@ -15,7 +15,7 @@
     Retrieves results from the entire English Wikipedia corpus using inverted indexes and composite ranking.
     <br />
     <br />
-    <a href="http://34.172.174.63:8080/">
+    <a href="http://34.172.174.63:8080/search?query=hello">
       <img src="https://img.shields.io/badge/🚀_Launch_The_Engine-FF0000?style=for-the-badge" alt="Launch Engine" />
   </p>
 </div>
