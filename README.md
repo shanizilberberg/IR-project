@@ -15,19 +15,8 @@
     Retrieves results from the entire English Wikipedia corpus using inverted indexes and composite ranking.
     <br />
     <br />
-    <a href="http://YOUR_ENGINE_IP_HERE:8080/search?query=computer">
+    <a href="http://34.172.174.63:8080/">
       <img src="https://img.shields.io/badge/🚀_Launch_The_Engine-FF0000?style=for-the-badge" alt="Launch Engine" />
-    </a>
-    <br />
-    <br />
-    <a href="#api-reference"><strong>Explore the Docs »</strong></a>
-    <br />
-    <br />
-    <a href="#ranking-algorithm">View Logic</a>
-    ·
-    <a href="#architecture">Architecture</a>
-    ·
-    <a href="#issues">Report Bug</a>
   </p>
 </div>
 
