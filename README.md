@@ -85,9 +85,8 @@ $$Score(d,q) = \sum_{term \in q} \left( W_{title} \times \mathbb{1}_{title} \rig
 
 ---
 
-## 📡 API Reference
+## 📡 link to the engine 
 
 ### 1. Main Search
 Returns the top results using the composite ranking algorithm.
-```http
-GET /search?query=YOUR_QUERY
+http://34.172.174.63:8080/search?query=hello
