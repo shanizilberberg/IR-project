@@ -1,11 +1,4 @@
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-2.0%2B-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  
-  <br />
-  <br />
+<div align="center">  
 
   <h1 align="center">🔎 Wikipedia Search Engine</h1>
 
